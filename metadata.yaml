@@ -1,0 +1,29 @@
+_repo: South-America-and-the-War_38793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kirkpatrick, F. A. (Frederick Alexander)
+    alias: Kirkpatrick, Frederick Alexander
+    birthdate: 1861
+    deathdate: 1953
+    gutenberg_agent_id: '39653'
+    url: http://www.gutenberg.org/2009/agents/39653
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38793'
+  lccn: '19000924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin America -- Economic conditions'
+- !lcsh 'World War, 1914-1918 -- Latin America'
+- !lcc 'D501'
+title: South America and the War
+url: http://www.gutenberg.org/ebooks/38793
